@@ -24,15 +24,17 @@ ARP spoofing: A hacker sends fake ARP packets that link an attacker's MAC addres
 Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
 ## OUTPUT:
-
+<img width="772" height="433" alt="image" src="https://github.com/user-attachments/assets/5a2333a6-1559-4f78-9387-a782cdf70d58" />
 
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
 
+<img width="786" height="518" alt="image" src="https://github.com/user-attachments/assets/479679a9-74fe-4ec0-9bfb-e9dcc19e0fc4" />
 
  dsniff:
 
+<img width="805" height="137" alt="image" src="https://github.com/user-attachments/assets/9e1308de-858c-45bc-9faf-0be0f559b4fc" />
 
 
 
@@ -40,6 +42,7 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
+<img width="1475" height="613" alt="image" src="https://github.com/user-attachments/assets/83bd60a0-a0d9-4747-999e-5db275e4ab38" />
 
 
 
@@ -47,7 +50,10 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
+<img width="1483" height="732" alt="image" src="https://github.com/user-attachments/assets/da110107-8149-4b0a-ad5a-200ebb760130" />
 
+## RESULT:
+The kali linux tools for ARP Attack and Network Sniffing were identified successfully
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
