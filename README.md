@@ -52,12 +52,9 @@ sudo dsnifff
 ## OUTPUT:
 <img width="1483" height="732" alt="image" src="https://github.com/user-attachments/assets/da110107-8149-4b0a-ad5a-200ebb760130" />
 
-## RESULT:
-The kali linux tools for ARP Attack and Network Sniffing were identified successfully
-
-
-Invoke the wireshark and examine the various menus  and controls of the tool:
-
+## Ettercap
+Ettercap supports active and passive dissection of many protocols (even encrypted ones) and includes many feature for network and host analysis. Ettercap can be used as sniffing tool as illustrated below:
+<img width="681" height="392" alt="out6" src="https://github.com/user-attachments/assets/ea85c924-13aa-48f5-af94-6003de8be3c5" />
 
 ## RESULT:
 The kali linux tools for ARP Attack and Network Sniffing were identified successfully
